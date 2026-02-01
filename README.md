@@ -4,7 +4,7 @@
 </h2>
 
 
-![](https://img.shields.io/github/languages/count/Svaity/Self-Driving-Car-Software?color=%128C7E) ![](https://img.shields.io/github/languages/top/Svaity/Self-Driving-Car-Software?color=%128C7E) ![](https://img.shields.io/github/repo-size/Svaity/Self-Driving-Car-Software?color=%128C7E) ![](https://img.shields.io/github/last-commit/Svaity/Self-Driving-Car-Software?color=%128C7E) [![BCH compliance](https://bettercodehub.com/edge/badge/Svaity/Self-Driving-Car-Software?branch=master)](https://bettercodehub.com/)
+![](https://img.shields.io/github/languages/count/ssvaity/Self-Driving-Car-Software?color=%128C7E) ![](https://img.shields.io/github/languages/top/Svaity/Self-Driving-Car-Software?color=%128C7E) ![](https://img.shields.io/github/repo-size/ssvaity/Self-Driving-Car-Software?color=%128C7E) ![](https://img.shields.io/github/last-commit/ssvaity/Self-Driving-Car-Software?color=%128C7E) [![BCH compliance](https://bettercodehub.com/edge/badge/ssvaity/Self-Driving-Car-Software?branch=master)](https://bettercodehub.com/)
 
 <br />
 <div align="center">
@@ -45,4 +45,4 @@ This is a fully functional self-driving car fuelled entirely by Deep Learning. T
 - Built and trained a fully functional self driving car to drive on its own!
 - Used Udacity's Open source Self Driving car silulator to simulate a fully functional self-driving car by training on one track and validating / testing on other unknown track
 
-https://github.com/Svaity/Self-Driving-Car-Software
+https://github.com/ssvaity/Self-Driving-Car-Software
